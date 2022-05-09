@@ -1,1 +1,1 @@
-my name is tebiu solomon and this is my git
+my name is tebiu solomon and this is my git.
